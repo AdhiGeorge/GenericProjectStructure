@@ -1,0 +1,1 @@
+Thsi is a generic project structure
